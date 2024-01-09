@@ -36,13 +36,13 @@ This Fastify-based Node.js application uses FFmpeg to process video files. It pr
 1. Clone the repository:
 
    ```bash
-   git clone https://gitlab.com/ishakail/ffmpeg_ishakzail
+   git clone https://github.com/ishakzail/Video-resizer-trimmer
    ```
 
 2. Install the dependencies
 
     ```bash
-    cd ffmpeg_ishakzail
+    cd Video-resizer-trimmer
     npm install
     ```
 
@@ -69,7 +69,7 @@ This Fastify-based Node.js application uses FFmpeg to process video files. It pr
   ```
 **Example (POSTMAN)**
 
-![upload-video](https://gitlab.com/ishakail/ffmpeg_ishakzail/-/raw/main/images/upload-video.png)
+![upload-video](https://github.com/ishakzail/Video-resizer-trimmer/blob/master/images/upload-video.png)
 
 
 ### Video Resizing
@@ -93,7 +93,7 @@ This Fastify-based Node.js application uses FFmpeg to process video files. It pr
   ```
 **Example (POSTMAN)**
 
-![resize-video](https://gitlab.com/ishakail/ffmpeg_ishakzail/-/raw/main/images/resize-video.png)
+![resize-video](https://github.com/ishakzail/Video-resizer-trimmer/blob/master/images/resize-video.png)
 
 
 ### Video Trimming
@@ -117,6 +117,6 @@ This Fastify-based Node.js application uses FFmpeg to process video files. It pr
   ```
 **Example (POSTMAN)**
 
-![trim-video](https://gitlab.com/ishakail/ffmpeg_ishakzail/-/raw/main/images/trim-video.png)
+![trim-video](https://github.com/ishakzail/Video-resizer-trimmer/blob/master/images/trim-video.png)
 
 
